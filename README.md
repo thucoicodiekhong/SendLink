@@ -1,3 +1,2 @@
 # SendLink
-Create Short Link
-[Data IT](http://sendlink.tk "SendLink")
+Create Short Link by [SendLink](http://sendlink.tk "SendLink")
